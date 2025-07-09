@@ -12,6 +12,6 @@ I wanted to make a simple yet sleek Keep Alive for Toontown since I think all of
 - Pigeon Keep Alive will prevent your computer from entering Sleep mode.
 - Pigeon Keep Alive will continue to keep your Toons awake even if minimized. It will also remain active if your game(s) are minimized as well.
 
-If there are any bugs and/or feature requests, please comment below or add me on Discord @huskus
+If there are any bugs and/or feature requests you can message me on Discord @huskus
 
 // hah noob!
